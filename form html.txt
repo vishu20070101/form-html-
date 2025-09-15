@@ -1,0 +1,37 @@
+<html>
+<body>
+
+<h2><font color="RED">Design Form In HTML:</h2><br><br>
+<form>
+<label>First Name:</label>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<input type="text" value="" minlength="4" maxlength="19" placeholder="Enter your first name here"><br><br>
+<label>Last Name:</label>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<input type="text" value="" minlength="5" maxlength="18" placeholder="Enter your last name here"><br><br>
+
+<label>Email Address:</label>&nbsp&nbsp
+<input type="text" value="" minlength="6" maxlength="20" placeholder="Enter your email address here"><br><br>
+
+<label>Password</labelb>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<input type="password" value="" placeholder="Enter your password" ><br><br>
+
+<label>Age:</label>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<input type="number" value="" placeholder="Enter your Age">
+<br><br>
+
+<label>Project Name:</label>&nbsp&nbsp&nbsp
+<input type="text" value="" placeholder="Enter your Project"><br><br>
+
+<label>About Project:</label>&nbsp&nbsp<br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<textarea rows="5" cols="21"></textarea><br><br>
+
+
+
+
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<input type="submit" >
+<input type="reset" ></font>
+
+
+
+</body>
+</html>
+
